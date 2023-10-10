@@ -7,4 +7,4 @@ this is for **COGS108**, Discussion 1
 - d.
 - e.
 
-### Hello World. This is an example.
+### This is an example.
