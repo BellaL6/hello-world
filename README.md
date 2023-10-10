@@ -6,3 +6,5 @@ this is for **COGS108**, Discussion 1
 - c.
 - d.
 - e.
+
+### Hello World. This is an example.
